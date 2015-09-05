@@ -1,0 +1,2 @@
+# emon
+Senggol bacok
